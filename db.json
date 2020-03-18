@@ -1,14 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "vessels": {"data": 
+              ["Strategic Synergy", "Strategic Harmony", "Strategic Vision"]},
+  "keydates": {{"Strategic Synergy": {"data": {"intervention": ["2017-05-13_Drydock", "21-03-2019_Dry Dock"]}}},
+               {"Strategic Harmony": {"data": {"intervention": ["2018-02-28_Hull & Propeller Cleaning", 
+               "2017-10-22_Hull & Propeller Cleaning", "2019-06-05_Dry Dock"]}}},
+{"Strategic Vision": {"data": {"intervention": ["2016-11-22_Dry dock", "2019-09-25_PBCF"]}}}
+}
 }
