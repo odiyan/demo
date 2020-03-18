@@ -1,9 +1,9 @@
 {
-  "vessels": {"data": 
-              ["Strategic Synergy", "Strategic Harmony", "Strategic Vision"]},
-  "keydates": {{"Strategic Synergy": {"data": {"intervention": ["2017-05-13_Drydock", "21-03-2019_Dry Dock"]}}},
+  "vessels": [{"data": 
+              ["Strategic Synergy", "Strategic Harmony", "Strategic Vision"]}],
+  "keydates": [{"Strategic Synergy": {"data": {"intervention": ["2017-05-13_Drydock", "21-03-2019_Dry Dock"]}},
                {"Strategic Harmony": {"data": {"intervention": ["2018-02-28_Hull & Propeller Cleaning", 
-               "2017-10-22_Hull & Propeller Cleaning", "2019-06-05_Dry Dock"]}}},
+               "2017-10-22_Hull & Propeller Cleaning", "2019-06-05_Dry Dock"]}},
 {"Strategic Vision": {"data": {"intervention": ["2016-11-22_Dry dock", "2019-09-25_PBCF"]}}}
-}
+]
 }
